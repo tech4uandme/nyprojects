@@ -31,5 +31,27 @@ Durch die Kombination verschiedener Lichtquellen mit entsprechender Helligkeit i
 Akzentbeleuchtung.
 
 ```
-Anforderung 2: Indirekte LED-Beleuchtung als Akzentbeleuchtung
+Anforderung 2: Indirekte LED-Beleuchtung als Akzentbeleuchtung.
+```
+
+# Einer für alle ...
+Eine einzelne Lichtquelle erzeugt keine Stimmungen. Erst duch die Kombination verschiedener Lichtinseln wird eine
+bestimmte Stimmung erzeugt.
+Nicht praktikabel ist es jedoch, jedes mal, wenn die Beleuchtung eingeschaltet wird, die einzelnen Lichtquellen separat einzuschalten und entsprechend einzustellen.
+Es muss also einen Einschalttrigger geben, auf den alle zur jeweiligen Lichtszene gehörenden Lichtinseln reagieren.
+
+```
+Anforderung 3: Lichtquellen müssen sich zu Gruppen zusammenschalten lassen.
+```
+
+# ... alle für einen
+Um eine bestimmte Lichtstiimung zu erreichen sind neben der Lichtfarbe auch die Helligkeit einer Lichtquelle entscheidend.
+Je nach Art und Standort der indirekten Beleuchtung sind die Werte für Lichtfarbe und Helligkeit jedoch unterschiedlich zu wählen, um eine bestimmte Stimmung zu erzeugen.
+Bei Aktivierung des Einschalttriggers muss sich somit eine einzelne Lichtquelle selbständig dimmen, so wie es für die Lichtstimmung erforderlich ist.
+Durch die Verteilung der zu einer Stimmung gehörenden Inseln im Raum kann es auch vorkommen, dass temporär in bestimmten Bereichen ein anderes Lichtlevel benötigt wird als anderswo.
+Trotz der gebotenen Zusammenarbeit der einzelnen Lichtquellen muss die Individualität einer einer Insel gewahrt bleiben.
+Jede einzelne Lichtquelle muss also separat einstellbar sein.
+
+```
+Anforderung 3: Lichtquellen müssen separat voneinander steuerbar sein.
 ```
