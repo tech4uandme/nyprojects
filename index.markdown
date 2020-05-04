@@ -6,11 +6,12 @@ layout: home
 ---
 
 <h2>Posts</h2>
-
+<ul class "post-list">
   {% for post in site.posts %}
-    <div><a href="{{ post.url }}">{{ post.title }}</a></div>
-    <div><a href="{{ post.url }}">weiter lesen...</a></div>
+    <li class="post-link"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li class="post-link"><a href="{{ post.url }}">weiter lesen...</a></li>
   {% endfor %}
+</ul>
   
   {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
