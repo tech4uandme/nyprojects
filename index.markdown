@@ -5,12 +5,13 @@
 layout: home
 ---
 
-Viel Spaß beim lesen!!
-<ul>
+Posts
+
   {% for post in site.posts %}
-    <li>
+    
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
-    </li>
+      <a href="{{ post.url }}">weiter lesen...</a>
+    
   {% endfor %}
-</ul>
+
