@@ -12,3 +12,8 @@ Zusammenspiel mehrerer, auf einander absgestimmter Lichtquellen - so genannter L
 So unterscheidet sich die Lichtstimmung beim gemütlichen Fernsehabend von der beim Abendessen oder dem Spieleabend deutlich.
 Nicht akzeptable wäre es, müsste jede einzelne Lichtinsel separat eingeschaltet und aufs Neue eingestellt werden. 
 Eine intelligente Steuerung ist also vonnöten, die je nach gewünschter Szene alle Lichtquellen automatisch korrekt einstellt.
+
+Viele SmartHome-Lösungen bedienen sich hierbei einer zentralen Steuerungseinheit, die die einzelnen Lichtquellen ansteuert.
+Wäre es nicht viel intelligenter, wenn die einzelnen Lichtquellen individuell voneinander agieren, sich aber flexibel zu Gruppen zusammenschalten lassen, die dann in bestimmten Lichtszenen wissen, was zu tun ist?
+
+In den folgenden Beiträgen erkläre ich, wie dies erreicht werden kann!
