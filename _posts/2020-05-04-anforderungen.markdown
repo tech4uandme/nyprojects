@@ -53,5 +53,5 @@ Trotz der gebotenen Zusammenarbeit der einzelnen Lichtquellen muss die Individua
 Jede einzelne Lichtquelle muss also separat einstellbar sein.
 
 ```
-Anforderung 3: Lichtquellen müssen separat voneinander steuerbar sein.
+Anforderung 4: Lichtquellen müssen separat voneinander steuerbar sein.
 ```
