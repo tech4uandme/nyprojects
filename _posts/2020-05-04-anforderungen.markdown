@@ -60,7 +60,7 @@ Anforderung 4: Lichtquellen müssen separat voneinander steuerbar sein.
 ```
 
 # Die vergessene Beleuchtung
-Entweder zum Zwecke einer Lichtszene oder einfach, um "vergessenes" Licht nicht ewig brennen zu lassen, sollte sich die
+Entweder zum Zwecke einer Lichtszene oder einfach, um "vergessenes" Licht nicht unnötig brennen zu lassen, sollte sich die
 Beleuchtung selbständig nach einer einstellbaren maximalen Leuchtzeit ausstellen.
 
 ```
@@ -82,5 +82,13 @@ mehreren Tagen ist die Lichtquelle dann selbständig in der Lage sich zum richti
 Anforderung 6: Lichtquellen lassen sich über verschiedene,
                teils intelligente Verfahren, einschalten.
 ```
+
+# Besondere Lichtszenen
+Eine besondere Abendlichtszene kann derart gestaltet sein, dass über einen Zeitraum von z.B. 2 oder 3 Stunden das Licht
+kontinuierlich von der für die Szene höchsten Helligkeit bis auf 0 runterdimmt. Durch den langen Zeitraum nehmen die
+Anwesenden das Dimmen überhaupt nicht wahr. Es folgt jedoch dem natürlichem Lichtempfinden am Abend, bei dem abnehmendes
+Licht dem typischen Verlauf des natürlichen Lichts folgt.
+
+
 
 Jede einzelne Anforderung werde ich in einem Folgebeitrag detailliert betrachten.
