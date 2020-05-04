@@ -19,9 +19,9 @@ layout: home
   
   {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
-  <ul>
+  <ul class='post-list'>
     {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li class='post-link'><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
