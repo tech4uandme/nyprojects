@@ -10,7 +10,7 @@ layout: home
   {% for post in site.posts %}
     <li class='post-link'>
       <span class='post-meta'>{{ post.date }}</span><br>
-      <a href="{{ baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ baseurl }}{{ reviews.url }}">{{ post.title }}</a>
       <tiny>{{ post.excerpt }}
         <a href="{{ baseurl }}{{ post.url }}">weiter lesen...</a></tiny>
     </li>
