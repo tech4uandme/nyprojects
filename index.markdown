@@ -5,12 +5,11 @@
 layout: home
 ---
 
-Posts
+<h2>Posts</h2>
 
   {% for post in site.posts %}
-    [{{ post.title }}]({{ post.url }})
-      {{ post.excerpt }}
-    [weiter lesen...]({{ post.url }})  
+    <div><a href="{{ post.url }}">{{ post.title }}</a></div>
+    <div><a href="{{ post.url }}">weiter lesen...</a></div>
   {% endfor %}
   
   {% for category in site.categories %}
