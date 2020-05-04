@@ -5,18 +5,19 @@
 layout: home
 ---
 
-<h2>Posts</h2>
+<h1>Posts</h1>
 <ul class='post-list'>
   {% for post in site.posts %}
     <li class='post-link'>
       <span class='post-meta'>{{ post.date }}</span><br>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <p style='font-size:8pt'>{{ post.excerpt }}
-        <a href="{{ post.url | relative_url }}">weiter lesen...</a></p>
+      <div style='font-size:8pt'>{{ post.excerpt }}
+        <a href="{{ post.url | relative_url }}">weiter lesen...</a></div>
     </li>
   {% endfor %}
 </ul>
   
+<h1>Kategorien</h1>
   {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
   <ul class='post-list'>
