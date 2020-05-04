@@ -9,10 +9,10 @@ layout: home
 <ul class='post-list'>
   {% for post in site.posts %}
     <li class='post-link'>
-      {{ post.date }}
+      <span class='post-meta'>{{ post.date }}</span><br>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-      <a href="{{ post.url }}">weiter lesen...</a>
+      <small>{{ post.excerpt }}
+        <a href="{{ post.url }}">weiter lesen...</a></small>
     </li>
   {% endfor %}
 </ul>
