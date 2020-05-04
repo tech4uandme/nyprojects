@@ -16,8 +16,8 @@ layout: home
     </li>
   {% endfor %}
 </ul>
-  
-<h1>Kategorien</h1>
+<br>
+<h1>Nach Kategorien gruppiert</h1>
   {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
   <ul class='post-list'>
@@ -26,4 +26,6 @@ layout: home
     {% endfor %}
   </ul>
 {% endfor %}
+<br>
+<h1>Übersicht aller</h1>
 
