@@ -73,7 +73,8 @@ Auch wenn sich diese automatischen Einschalttrigger nicht anbieten, kann dennoch
 einer Zentraleinheit gesendet werden.
 Eine noch intelligentere Methode ist das
 
-## Automatisches Einschalten gemäß der Gewohnheiten der Bewohner
+Automatisches Einschalten gemäß der Gewohnheiten der Bewohner
+-------------------------------------------------------------
 Hierbei "merkt" sich eine Lichtquelle selbständig die Einschaltzeiten über einen bestimmten Zeitraum, um somit im Laufe
 der Zeit zu lernen, wann die Beleuchtung gewohnheitsgemäß eingeschaltet wird. Nach einer ausreichenden Anlernzeit von
 mehreren Tagen ist die Lichtquelle dann selbständig in der Lage sich zum richtigen Zeitpunkt einzuschalten.
