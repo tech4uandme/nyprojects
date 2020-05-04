@@ -89,6 +89,10 @@ kontinuierlich von der für die Szene höchsten Helligkeit bis auf 0 runterdimmt
 Anwesenden das Dimmen überhaupt nicht wahr. Es folgt jedoch dem natürlichem Lichtempfinden am Abend, bei dem abnehmendes
 Licht dem typischen Verlauf des natürlichen Lichts folgt.
 
+```
+Anforderung 7: Besondere Lichtszenen für einen ausklingenden Abend sollen
+               unterstützt werden.
+```
 
 
 Jede einzelne Anforderung werde ich in einem Folgebeitrag detailliert betrachten.
