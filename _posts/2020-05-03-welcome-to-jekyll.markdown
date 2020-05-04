@@ -20,4 +20,4 @@ Wäre es nicht viel intelligenter, wenn die einzelnen Lichtquellen individuell v
 
 In den folgenden Beiträgen erkläre ich, wie dies erreicht werden kann!
 
-[Hier](../../{% post_url 2020-05-04-anforderungen %}) geht's weiter.
+[Hier](/led/steuerung/anforderungen/2020/05/04/anforderungen.html) geht's weiter.
