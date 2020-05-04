@@ -82,3 +82,5 @@ mehreren Tagen ist die Lichtquelle dann selbständig in der Lage sich zum richti
 Anforderung 6: Lichtquellen lassen sich über verschiedene,
                teils intelligente Verfahren, einschalten.
 ```
+
+Jede einzelne Anforderung werde ich in einem Folgebeitrag detailliert betrachten.
