@@ -8,11 +8,9 @@ layout: home
 Posts
 
   {% for post in site.posts %}
-    <p>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+    [{{ post.title }}]({{ post.url }})
       {{ post.excerpt }}
-      <a href="{{ post.url }}">weiter lesen...</a>
-    </p>
+    [weiter lesen...]({{ post.url }})  
   {% endfor %}
   
   {% for category in site.categories %}
