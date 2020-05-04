@@ -11,7 +11,7 @@ layout: home
     <li class='post-link'>
       <span class='post-meta'>{{ post.date }}</span><br>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <p style='font-size=10pt'>{{ post.excerpt }}
+      <p style='font-size=8pt'>{{ post.excerpt }}
         <a href="{{ post.url | relative_url }}">weiter lesen...</a></p>
     </li>
   {% endfor %}
