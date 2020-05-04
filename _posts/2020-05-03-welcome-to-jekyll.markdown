@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to nyprojects!"
 date:   2020-05-03 21:32:45 +0200
 excerpt_separator: <!--more-->
-categories: nyprojects update
+categories: LED indirekt
 ---
 Indirekte LED-Beleuchtung bietet ein immenses Potential für Gemütlichkeit in einem Raum zu sorgen. 
 
