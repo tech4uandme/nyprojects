@@ -10,9 +10,9 @@ layout: home
   {% for post in site.posts %}
     <li class='post-link'>
       <span class='post-meta'>{{ post.date }}</span><br>
-      <a href="/{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       <small>{{ post.excerpt }}
-        <a href="/{{ post.url }}">weiter lesen...</a></small>
+        <a href="{{ site.baseurl }}{{ post.url }}">weiter lesen...</a></small>
     </li>
   {% endfor %}
 </ul>
@@ -21,7 +21,7 @@ layout: home
   <h3>{{ category[0] }}</h3>
   <ul class='post-list'>
     {% for post in category[1] %}
-      <li class='post-link'><a href="/{{ post.url }}">{{ post.title }}</a></li>
+      <li class='post-link'><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
