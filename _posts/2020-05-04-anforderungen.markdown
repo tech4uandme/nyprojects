@@ -89,9 +89,11 @@ kontinuierlich von der für die Szene höchsten Helligkeit bis auf 0 runterdimmt
 Anwesenden das Dimmen überhaupt nicht wahr. Es folgt jedoch dem natürlichem Lichtempfinden am Abend, bei dem abnehmendes
 Licht dem typischen Verlauf des natürlichen Lichts folgt.
 
+Bei Abwesenheit wird über die Aktivierung verschiedener Lichtinseln zu unterschiedlichen Zeiten mit verschieden langen
+Einschaltzeiten Anwesenheit simuliert, was potentielle Einbrecher wirksam abschreckt.
+
 ```
-Anforderung 7: Besondere Lichtszenen für einen ausklingenden Abend sollen
-               unterstützt werden.
+Anforderung 7: Besondere Lichtszenen am Abend sorgen für behagliche Atmoshpäre oder dienen dem Schutz der Immobilie.
 ```
 
 
