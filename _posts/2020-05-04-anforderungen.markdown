@@ -19,15 +19,15 @@ Anforderung 1: Steuerung des LED-Lichts per Funk.
 # Haupt- oder Akzentbeleuchtung
 Ich persönlich mag Deckenlichter überhaupt nicht. Auch wenn wir in allen Wohnräumen über eine Deckenlampe
 verfügen, so wird diese im Grunde nie eingeschaltet.
-Deutlich angenehmer sind indirekte Lichtquellen, die besondere Akzente und Stimmungen hervorrufen.
+Deutlich angenehmer sind indirekte Lichtquellen, die besondere Akzente setzen und Stimmungen hervorrufen.
 Diese Art der Beleuchtung wird daher auch als Akzentbeleuchtung bezeichnet.
 
-Das eingentliche Licht ist dabei für den Betrachter nicht sichtbar. Daher die Bezeichnung indirekte Beleuchtung.
-Schöne Effekte werden erzielt durch die Hinterleuchtung von Möbelstücken oder die Ausleuchtung von
-Regalfächern mit Alu-Winkel- oder U-Profilen oder man nutzt Nuten, die sich durch die Baugegebenheiten
+Die eigentliche Lichtquelle ist dabei für den Betrachter nicht sichtbar. Daher die Bezeichnung indirekte Beleuchtung.
+Schöne Effekte werden durch die Hinterleuchtung von Möbelstücken oder die Ausleuchtung von
+Regalfächern mit Alu-Winkel- oder U-Profilen erzielt oder man nutzt Nuten, die sich durch die Baugegebenheiten
 ergeben haben.
 
-Durch die Kombination verschiedener Lichtquellen mit entsprechender Helligkeit ist auch diese Art der Beleuchtung als Hauptbeleuchtung einsetzbar. Durch Herunterdimmen verwandelt sich die Beleuchtung in eine angenehme, stimmungsvolle
+Durch die Kombination verschiedener Lichtquellen mit entsprechender Helligkeit ist auch diese Art der Beleuchtung als Hauptbeleuchtung einsetzbar. Durch Herunterdimmen verwandelt sich die Beleuchtung dann in eine angenehme, stimmungsvolle
 Akzentbeleuchtung.
 
 ```
@@ -35,9 +35,9 @@ Anforderung 2: Indirekte LED-Beleuchtung als Akzentbeleuchtung.
 ```
 
 # Einer für alle ...
-Eine einzelne Lichtquelle erzeugt keine Stimmungen. Erst duch die Kombination verschiedener Lichtinseln wird eine
+Eine einzelne Lichtquelle allein erzeugt keine Stimmungen. Erst duch die Kombination verschiedener Lichtinseln wird eine
 bestimmte Stimmung erzeugt.
-Nicht praktikabel ist es jedoch, jedes mal, wenn die Beleuchtung eingeschaltet wird, die einzelnen Lichtquellen separat einzuschalten und entsprechend einzustellen.
+Nicht praktikabel ist es jedoch, jedes mal, wenn die Beleuchtung benötigt wird, die einzelnen Lichtquellen separat einzuschalten und entsprechend einzustellen.
 Es muss also einen Einschalttrigger geben, auf den alle zur jeweiligen Lichtszene gehörenden Lichtinseln reagieren.
 
 ```
@@ -51,7 +51,7 @@ Je nach Art und Standort der indirekten Beleuchtung sind die Werte für Lichtfar
 Bei Aktivierung des Einschalttriggers muss sich somit eine einzelne Lichtquelle selbständig so einstellen, z.B.dimmen,
 wie es für die Lichtstimmung erforderlich ist.
 
-Durch die Verteilung der zu einer Stimmung gehörenden Inseln im Raum kann es auch vorkommen, dass temporär in bestimmten Bereichen ein anderes Lichtlevel benötigt wird als anderswo.
+Durch die Verteilung der zu einer Stimmung gehörenden Inseln im Raum kann es auch vorkommen, dass temporär in bestimmten Bereichen ein anderes Lichtlevel benötigt wird als woanders.
 Trotz der gebotenen Zusammenarbeit der einzelnen Lichtquellen muss die Individualität einer einzelnen Insel gewahrt bleiben.
 Jede einzelne Lichtquelle muss also separat einstellbar sein.
 
@@ -68,15 +68,15 @@ Anforderung 5: Lichtquellen schalten sich bei Vergessen selbständig aus.
 ```
 
 # Einschalttrigger
-Neben den immer zur Verfügung stehenden manuellen Einschaltmöglichkeiten über Funk-Taster bzw. Schalter stehen je nach Standort der Lichtquelle auch automatische Einschalttrigger durch z.B. Bewegungsmelder bzw. Präsenzmelder zur Verfügung.
-Auch wenn sich diese automatischen Einschalttrigger nicht anbieten, kann dennoch z.B. das Funksignal zeitgesteuert von
-einer Zentraleinheit gesendet werden.
+Neben den immer zur Verfügung stehenden manuellen Einschaltmöglichkeiten über Funk-Taster bzw. Schalter stehen je nach Standort der Lichtquelle auch automatische Einschalttrigger durch z.B. Bewegungsmelder bzw. Präsenzmelder oder Radarsensoren zur Verfügung.
+Auch da, wo sich automatische Einschalttrigger nicht anbieten, kann dennoch z.B. das Funksignal zeitgesteuert von
+einer Zentraleinheit gesendet werden und somit das Lcht aktiviert werden, ohne dass dafür ein Schalter betätigt werden muss.
 Eine noch intelligentere Methode ist das
 
 #### Automatisches Einschalten gemäß der Gewohnheiten der Bewohner
 Hierbei "merkt" sich eine Lichtquelle selbständig die Einschaltzeiten über einen bestimmten Zeitraum, um somit im Laufe
-der Zeit zu lernen, wann die Beleuchtung gewohnheitsgemäß eingeschaltet wird. Nach einer ausreichenden Anlernzeit von
-mehreren Tagen ist die Lichtquelle dann selbständig in der Lage sich zum richtigen Zeitpunkt einzuschalten.
+der Zeit zu lernen, wann die Beleuchtung gewohnheitsgemäß eingeschaltet wird. Nach einer ausreichenden Anlernzeit von z.B.
+einigen Tagen ist die Lichtquelle dann selbständig in der Lage sich zum richtigen Zeitpunkt einzuschalten.
 
 ```
 Anforderung 6: Lichtquellen lassen sich über verschiedene,
@@ -86,7 +86,7 @@ Anforderung 6: Lichtquellen lassen sich über verschiedene,
 # Besondere Lichtszenen
 Eine besondere Abendlichtszene kann derart gestaltet sein, dass über einen Zeitraum von z.B. 2 oder 3 Stunden das Licht
 kontinuierlich von der für die Szene höchsten Helligkeit bis auf 0 runterdimmt. Durch den langen Zeitraum nehmen die
-Anwesenden das Dimmen überhaupt nicht wahr. Es folgt jedoch dem natürlichem Lichtempfinden am Abend, bei dem abnehmendes
+Anwesenden das Dimmen überhaupt nicht wahr. Es entspricht jedoch dem natürlichen Lichtempfinden am Abend, bei dem abnehmendes
 Licht dem typischen Verlauf des natürlichen Lichts folgt.
 
 Bei Abwesenheit wird über die Aktivierung verschiedener Lichtinseln zu unterschiedlichen Zeiten mit verschieden langen
