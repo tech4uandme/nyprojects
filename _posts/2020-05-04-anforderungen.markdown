@@ -79,8 +79,8 @@ der Zeit zu lernen, wann die Beleuchtung gewohnheitsgemäß eingeschaltet wird. 
 einigen Tagen ist die Lichtquelle dann selbständig in der Lage sich zum richtigen Zeitpunkt einzuschalten.
 
 ```
-Anforderung 6: Lichtquellen lassen sich über verschiedene,
-               teils intelligente Verfahren, einschalten.
+Anforderung 6: Lichtquellen lassen sich über verschiedene, teils intelligente
+               Verfahren, einschalten.
 ```
 
 # Besondere Lichtszenen
@@ -93,7 +93,8 @@ Bei Abwesenheit wird über die Aktivierung verschiedener Lichtinseln zu untersch
 Einschaltzeiten Anwesenheit simuliert, was potentielle Einbrecher wirksam abschreckt.
 
 ```
-Anforderung 7: Besondere Lichtszenen am Abend sorgen für behagliche Atmoshpäre oder dienen dem Schutz der Immobilie.
+Anforderung 7: Besondere Lichtszenen am Abend sorgen für behagliche Atmoshpäre oder
+               dienen dem Schutz der Immobilie.
 ```
 
 
