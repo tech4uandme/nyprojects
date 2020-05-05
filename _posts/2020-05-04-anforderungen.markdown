@@ -93,8 +93,8 @@ Bei Abwesenheit wird über die Aktivierung verschiedener Lichtinseln zu untersch
 Einschaltzeiten Anwesenheit simuliert, was potentielle Einbrecher wirksam abschreckt.
 
 ```
-Anforderung 7: Besondere Lichtszenen am Abend sorgen für behagliche Atmoshpäre oder
-               dienen dem Schutz der Immobilie.
+Anforderung 7: Besondere Lichtszenen am Abend sorgen für behagliche Atmoshpäre
+               oder dienen dem Schutz der Immobilie.
 ```
 
 
